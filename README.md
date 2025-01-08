@@ -1,6 +1,6 @@
 # ShoppingCart
 
-![Shopping Cart](assets/running-project.png)
+![Shopping Cart](assets/running_project.png)
 
 The **ShoppingCart** project is a JavaFX-based application that enables users to browse products, add items to their cart, and manage their shopping experience efficiently. Developed using Visual Studio Code, it demonstrates object-oriented principles in Java and provides a foundation for understanding e-commerce application development.
 
