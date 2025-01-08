@@ -1,21 +1,13 @@
-## Getting Started
+# ShoppingCart
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+![Shopping Cart](assets/running-project.png)
 
-## Folder Structure
+The **ShoppingCart** project is a JavaFX-based application that enables users to browse products, add items to their cart, and manage their shopping experience efficiently. Developed using Visual Studio Code, it demonstrates object-oriented principles in Java and provides a foundation for understanding e-commerce application development.
 
-The workspace contains two folders by default, where:
+## Features
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
-
-
-![Shopping Cart](https://github.com/arpankanwer/ShoppingCart/assets/35032317/01170654-1fee-4038-b4eb-e3b16262456b)
+- **Product Browsing:** View a list of available products.
+- **Add to Cart:** Add selected products to the shopping cart.
+- **Remove from Cart:** Remove items from the cart as needed.
+- **View Cart:** Display the current contents of the shopping cart.
+- **Checkout Process:** Simulate the checkout process to complete the purchase.
